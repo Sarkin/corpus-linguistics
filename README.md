@@ -45,3 +45,5 @@ Id,sentence,token,pos
 34,2,.,189
 
 ...
+
+Пример: https://docs.google.com/document/d/1WJHdjS2bVbtd3MRF2YDrVv9I3TdwKa9fg4I7Wqi8Et8/edit?usp=sharing
